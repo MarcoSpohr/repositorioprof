@@ -1,29 +1,24 @@
 criaCartao(
     'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'O que é um algoritmo?',
+    ' é uma sequência de raciocínios, instruções ou operações para alcançar um objetivo, sendo necessário que os passos sejam finitos e operados sistematicamente.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Programçao',
+    'O que a programação ensina?',
+    'escrever código para realizar tarefas específicas.'
 )
 
 criaCartao(
     'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Quem criou a programação?',
+    'A primeira linguagem de programação foi criada por Ada Lovelace em 1843.'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'como se diz programação em inglês',
+    'schedule'
 )
 
-criaCartao(
-    'Nova Pergunta',
-    'Isso é um teste?',
-    'SIM'
-)
